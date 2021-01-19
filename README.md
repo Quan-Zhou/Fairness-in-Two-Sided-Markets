@@ -14,5 +14,5 @@ Julia:
 TSSOS: https://github.com/wangjie212/TSSOS
 
 MATLAB:
-IBM®CPLEX® Optimizer
+IBM®CPLEX® Optimizer, 
 Yalmip
