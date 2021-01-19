@@ -6,8 +6,7 @@ It tests the methods on a subset of the 2018 Yellow Taxi Trip Dataset: https://d
 
 It includes scripts in Python (ended with "PY"), Julia (ended with "JL"), and MATLAB (ended with "MAT").
 
-Dependencies:
-
+# Dependencies:
 Python: 
 IBM® Decision Optimization CPLEX® Modeling for Python
 
