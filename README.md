@@ -1,6 +1,6 @@
 # Fairness-in-two-sided-markets
 
-This is the source code of Subgroup Fairness in Two-Sided Markets: In the Pursuit of Gender Equality at Uber
+This is the source code of Subgroup Fairness in Two-Sided Markets
 
 It tests the methods on a subset of the 2018 Yellow Taxi Trip Dataset: https://data.cityofnewyork.us/Transportation/2018-Yellow-Taxi-Trip-Data/t29m-gskq
 
