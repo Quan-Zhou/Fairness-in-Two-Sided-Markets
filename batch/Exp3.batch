@@ -1,0 +1,12 @@
+#!/bin/sh
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=10
+#SBATCH --mem-per-cpu 20G
+#SBATCH --time 24:00:00
+#SBATCH --error=exp3.err 
+#SBATCH --output=exp3.out
+
+ml CPLEX/20.1.0.3-foss-2020b
+ml IPython/7.18.1-GCCcore-10.2.0
+
+jupyter-notebook /home/zhouqua1/Exp3.py

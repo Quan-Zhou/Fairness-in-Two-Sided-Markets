@@ -1,0 +1,13 @@
+#!/bin/sh
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=10
+#SBATCH --mem-per-cpu 32G
+#SBATCH --error=exp4-long.err 
+#SBATCH --output=exp4-long.out 
+#SBATCH --time 10-00:00:00 
+#SBATCH --partition=cpuextralong 
+
+ml Julia/1.8.2-linux-x86_64
+ml mosek/9.2
+
+julia /home/zhouqua1/Exp4-long.jl
