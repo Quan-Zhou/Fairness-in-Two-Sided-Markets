@@ -12,7 +12,7 @@ Python:
 
 IPython/7.18.1
 
-docplex/2.23.222
+docplex/2.23.222  
 
 Julia:
 
@@ -20,7 +20,7 @@ Julia/1.8.2-linux-x86_64
 
 TSSOS: https://github.com/wangjie212/TSSOS
 
-mosek/9.2
+mosek/9.2  
 
 MATLAB:
 
